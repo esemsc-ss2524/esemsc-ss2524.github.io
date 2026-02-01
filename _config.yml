@@ -1,0 +1,15 @@
+
+title: Simranjeet Singh
+description: Portfolio, Research Notes, and Projects
+theme: minima
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+header_pages:
+  - index.md
+  - notes.md
+  - projects.md
+  - about.md
