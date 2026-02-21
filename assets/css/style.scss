@@ -1,6 +1,10 @@
 body {
   background: #f4f4f4;
   color: #222;
+  /* Center the body content */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 pre, code {

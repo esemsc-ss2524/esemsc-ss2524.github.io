@@ -7,6 +7,9 @@ title: Notes
 
 This is where I keep technical notes.
 
+### Topics
+- [Compressed Sparse Row](./CSR.md)  
+
 Example:
 
 $$
